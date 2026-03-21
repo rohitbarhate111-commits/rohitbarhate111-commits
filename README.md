@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rohit 👋
 
-<!--
-**rohitbarhate111-commits/rohitbarhate111-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer (Java | Spring Boot | Kafka)
 
-Here are some ideas to get you started:
+I build scalable backend systems and work on real-world projects involving APIs, databases, and event-driven architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Java**
+- **Spring Boot**
+- **Apache Kafka**
+- **MySQL**
+- **REST APIs**
+
+## 📌 Projects (Building Now)
+- **Midas Transaction System** (Kafka-based)
+- **Banking API** (JWT + MySQL)
+- **URL Shortener** (System Design)
+
+## 📫 Contact
+- **Email:** [rohitbarhate111@gmail.com](mailto:rohitbarhate111@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/rohit-barhate](https://www.linkedin.com/in/rohit-barhate)
