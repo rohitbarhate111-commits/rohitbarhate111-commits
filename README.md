@@ -1,11 +1,11 @@
 # Rohit Barhate
 
-**Backend Developer - Software Engineer**
+**Backend Developer & Software Engineer**  
 Pune, India
 
 ---
 
-I build backend systems that are correct before they're clever. My focus areas are REST APIs, event-driven architecture, and the kind of infrastructure work that keeps production stable at 2am.
+I build backend systems that are correct before they are clever. My focus areas are REST APIs, data pipelines, and production-grade software architectures designed for reliability and clean maintainability.
 
 ---
 
@@ -14,7 +14,6 @@ I build backend systems that are correct before they're clever. My focus areas a
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -25,30 +24,23 @@ I build backend systems that are correct before they're clever. My focus areas a
 
 ---
 
-## Projects
+## Featured Projects
 
 ### [Anomaly Detection Agent](https://github.com/rohitbarhate111-commits/anomaly-detection-agent)
-`Python` - `STL Decomposition` - `SQLite` - `Statsmodels`
+`Python` • `STL Decomposition` • `Statsmodels` • `SQLite` • `Pandas` • `pytest`
 
-Autonomous time-series anomaly detection agent with seasonal decomposition, rolling z-score analysis, and alert suppression backoff.
+Autonomous time-series anomaly detection pipeline with seasonal decomposition, rolling z-score analysis, correlation clustering, and stateful alert suppression backoff. Includes automated CI test workflows and comprehensive unit test coverage.
 
 ---
 
 ### [Banking API](https://github.com/rohitbarhate111-commits/banking-api)
-`Java 17` - `Spring Boot` - `Spring Data JPA` - `Maven`
+`Java 17` • `Spring Boot 3` • `Spring Data JPA` • `Hibernate` • `Bean Validation` • `Maven`
 
-Production-structured REST API for banking operations with user registration, account management, and a transaction ledger.
-
----
-
-### [Portfolio OS](https://github.com/rohitbarhate111-commits/portfolio-os)
-`React 18` - `Vite` - `PWA`
-
-A Windows 11-inspired interactive desktop environment that runs in the browser - window manager, engineering notebooks, Spotlight search, and an AI assistant.
+Production-structured REST API for banking operations featuring account creation, atomic fund transfers with transactional consistency (`@Transactional`), bean validation, custom domain exceptions, and structured HTTP error responses.
 
 ---
 
-## Contact
+## Contact & Links
 
-- Email: rohitbarhate111@gmail.com
-- - GitHub: github.com/rohitbarhate111-commits
+- **Email**: [rohitbarhate111@gmail.com](mailto:rohitbarhate111@gmail.com)
+- **GitHub**: [rohitbarhate111-commits](https://github.com/rohitbarhate111-commits)
