@@ -5,7 +5,7 @@ Pune, India
 
 ---
 
-I build backend systems that are correct before they are clever. My focus areas are REST APIs, data pipelines, and production-grade software architectures designed for reliability and clean maintainability.
+I build backend systems that are correct before they are clever. My focus areas are REST APIs, data monitoring pipelines, and backend architectures built for reliability, transactional integrity, and maintainability.
 
 ---
 
@@ -27,16 +27,23 @@ I build backend systems that are correct before they are clever. My focus areas 
 ## Featured Projects
 
 ### [Anomaly Detection Agent](https://github.com/rohitbarhate111-commits/anomaly-detection-agent)
-`Python` • `STL Decomposition` • `Statsmodels` • `SQLite` • `Pandas` • `pytest`
+`Python` • `STL Decomposition` • `Statsmodels` • `SQLite` • `Pandas` • `pytest` • `GitHub Actions CI`
 
-Autonomous time-series anomaly detection pipeline with seasonal decomposition, rolling z-score analysis, correlation clustering, and stateful alert suppression backoff. Includes automated CI test workflows and comprehensive unit test coverage.
+Autonomous time-series anomaly detection pipeline combining rolling z-scores with seasonal STL decomposition. Features alert suppression to eliminate notification fatigue, sliding-window correlation clustering, SQLite state persistence, and an automated pytest test suite with GitHub Actions CI.
 
 ---
 
 ### [Banking API](https://github.com/rohitbarhate111-commits/banking-api)
-`Java 17` • `Spring Boot 3` • `Spring Data JPA` • `Hibernate` • `Bean Validation` • `Maven`
+`Java 17` • `Spring Boot 3` • `Spring Data JPA` • `Hibernate` • `Bean Validation` • `JUnit 5` • `Maven`
 
-Production-structured REST API for banking operations featuring account creation, atomic fund transfers with transactional consistency (`@Transactional`), bean validation, custom domain exceptions, and structured HTTP error responses.
+REST API for banking operations featuring account lifecycle management, atomic fund transfers with `@Transactional` integrity, custom domain exceptions (`InsufficientFundsException`), and layered input validation with structured HTTP error responses (201, 400, 404, 422). Includes unit and MockMvc integration tests.
+
+---
+
+### [YouTube Kids Automation](https://github.com/rohitbarhate111-commits/YouTubeKidsAutomation)
+`Python 3.12` • `Docker` • `FFmpeg` • `Gemini 2.5` • `Imagen 3` • `YouTube Data API v3` • `SQLite`
+
+Automated, end-to-end educational video generation and publishing pipeline. Uses Gemini for kid-safe story scripts and scene composition, Imagen 3 for illustrations, multi-provider TTS for voice narration, and FFmpeg for video rendering, subtitle burning, and audio mixing with automated YouTube scheduling and Telegram alert sinks.
 
 ---
 
